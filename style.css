@@ -1,0 +1,29 @@
+.hidden {
+    display: none;
+}
+.visible {
+    display: block;
+}
+body{
+    background-image: url(images/18973628.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+.hidden {
+    display: none;
+}
+.visible {
+    display: block;
+}
+h1, h2, p {
+    text-align: center;
+}
+div {
+    text-align: center;
+    margin: 20px;
+}
